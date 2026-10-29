@@ -23,4 +23,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lamia--bouzari-181717?logo=github&logoColor=white)](https://github.com/Lamia-bouzari)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamia-bouzari&layout=compact)](https://github.com/Lamia-bouzari)
